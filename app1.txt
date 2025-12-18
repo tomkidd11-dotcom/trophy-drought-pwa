@@ -1,0 +1,22 @@
+const teams = {
+    arsenal: { name: "Arsenal", date: "2020-08-01", info: "FA Cup" },
+    astonvilla: { name: "Aston Villa", date: "1996-02-28", info: "League Cup" },
+    bournemouth: { name: "Bournemouth", date: "1887-01-01", info: "Never won a major trophy" },
+    brentford: { name: "Brentford", date: "1887-01-01", info: "Never won a major trophy" },
+    brighton: { name: "Brighton & Hove Albion", date: "1887-01-01", info: "Never won a major trophy" },
+    burnley: { name: "Burnley", date: "1960-05-02", info: "First Division" }, // Promoted
+    chelsea: { name: "Chelsea", date: "2022-05-14", info: "Previous recent; no new in 2025 mentioned" }, // Adjust if needed; Man City trophyless in 2024-25
+    palace: { name: "Crystal Palace", date: "2025-05-17", info: "FA Cup" }, // First ever major!
+    everton: { name: "Everton", date: "1995-05-20", info: "FA Cup" },
+    fulham: { name: "Fulham", date: "1887-01-01", info: "Never won a major trophy" },
+    leeds: { name: "Leeds United", date: "1992-05-03", info: "First Division" }, // Promoted
+    liverpool: { name: "Liverpool", date: "2025-05-25", info: "Premier League (2024–25)" },
+    mancity: { name: "Manchester City", date: "2024-05-19", info: "Premier League (2023–24)" },
+    manu: { name: "Manchester United", date: "2024-05-25", info: "FA Cup" },
+    newcastle: { name: "Newcastle United", date: "2025-03-16", info: "Carabao Cup" },
+    forest: { name: "Nottingham Forest", date: "1990-04-28", info: "League Cup" },
+    sunderland: { name: "Sunderland", date: "1973-05-05", info: "FA Cup" }, // Promoted
+    tottenham: { name: "Tottenham Hotspur", date: "2025-05-21", info: "UEFA Europa League" },
+    westham: { name: "West Ham United", date: "2023-06-07", info: "UEFA Conference League" },
+    wolves: { name: "Wolverhampton Wanderers", date: "1980-03-15", info: "League Cup" }
+};
